@@ -1,0 +1,39 @@
+{
+  "private": true,
+  "retool": {
+    "app": {
+      "uuid": "e90ffabe-658b-11f1-a4a2-63cd2224b3c0",
+      "name": null,
+      "resourceReferencesByFile": {
+        "/backend/platforms/getDiscordProfile.ts": [],
+        "/backend/platforms/getGitHubProfile.ts": [],
+        "/backend/platforms/getGoogleProfile.ts": [],
+        "/backend/platforms/getLinkedInProfile.ts": [],
+        "/backend/platforms/getSpotifyProfile.ts": [],
+        "/backend/platforms/getTwitterProfile.ts": [],
+        "/backend/user.d.ts": [],
+        "/backend/platforms/getBandcampProfile.ts": [],
+        "/backend/platforms/getBehanceProfile.ts": [],
+        "/backend/platforms/getFiverrProfile.ts": [],
+        "/backend/platforms/getGitLabProfile.ts": [],
+        "/backend/platforms/getInstagramProfile.ts": [],
+        "/backend/platforms/getPayPalProfile.ts": [],
+        "/backend/platforms/getShopifyProfile.ts": [],
+        "/backend/platforms/getSoundCloudProfile.ts": [],
+        "/backend/platforms/getStackOverflowProfile.ts": [],
+        "/backend/platforms/getStripeProfile.ts": [],
+        "/backend/platforms/getTikTokProfile.ts": [],
+        "/backend/platforms/getTwitchProfile.ts": [],
+        "/backend/platforms/getUpworkProfile.ts": [],
+        "/backend/platforms/getYouTubeProfile.ts": [],
+        "/backend/platforms/searchPlatform.ts": [
+          {
+            "name": "a9f6de2b-f494-49b4-9c1c-fe72b4927fda",
+            "displayName": "Anthropic",
+            "type": "anthropic"
+          }
+        ]
+      }
+    }
+  }
+}
